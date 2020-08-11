@@ -30,7 +30,7 @@ The project outcome includes:
 
 | Goal              |  Item name     | Link |      
 | ----------------- | -------------- | ---- |
-| A tidy data set   | Clean Data Set |      |   
+| A tidy data set   | Clean Data Set | [Tidy data](https://github.com/Yvonne27Jin/JHU-coursera_R_3_Assignment/blob/master/tidy_data_set.txt)     |   
 | Analysis R Script | run_analysis.R | [R script](https://github.com/Yvonne27Jin/JHU-coursera_R_3_Assignment/blob/master/run_analysis.R)     |   
 | Github Repo       | Repo           | [Repo](https://github.com/Yvonne27Jin/JHU-coursera_R_3_Assignment)     |  
 | CodeBook          | CodeBook.md    | [CodeBook](https://github.com/Yvonne27Jin/JHU-coursera_R_3_Assignment/blob/master/CodeBook.md)     |    
